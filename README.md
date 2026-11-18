@@ -21,7 +21,7 @@ Un simulateur de TP couvrant chimie organique et minérale, avec une campagne p�
 
 Compétences
 	
-Langages	C#, (à compléter)
+Langages	C#, JavaScript, HTML
 Moteurs	Godot (.NET), Unity
 Outils	Git, VS Code, LibreSprite
 Me trouver
