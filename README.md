@@ -1,4 +1,4 @@
-Prénom Nom
+Elouan Sens
 
 Étudiant en Licence Informatique à l'Université de Bretagne Occidentale, à Brest. Je développe des jeux sous Godot et Unity, et je monte Downbound Studio à côté de mes études.
 
@@ -24,8 +24,10 @@ Compétences
 Langages	C#, JavaScript, HTML
 Moteurs	Godot (.NET), Unity
 Outils	Git, VS Code, LibreSprite
+
 Me trouver
+
 Jeux et démos — downbound.itch.io
 Dépôts du studio — github.com/downbound
 Bluesky — @downboundstudio
-Contact - downbound.studio@gmail.com
+Contact — downbound.studio@gmail.com
