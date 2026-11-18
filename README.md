@@ -20,11 +20,15 @@ Godot · en conception
 
 Un simulateur de TP couvrant chimie organique et minérale, avec une campagne pédagogique et un mode bac à sable. Gratuit et moddable. C'est le projet qui relie mes deux parcours.
 
+
 Compétences
 	
 Langages	C#, JavaScript, HTML
+
 Moteurs	Godot (.NET), Unity
+
 Outils	Git, VS Code, LibreSprite
+
 
 Me trouver
 
