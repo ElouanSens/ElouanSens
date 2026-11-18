@@ -29,6 +29,9 @@ Outils	Git, VS Code, LibreSprite
 Me trouver
 
 Jeux et démos — downbound.itch.io
+
 Dépôts du studio — github.com/downbound
+
 Bluesky — @downboundstudio
+
 Contact — downbound.studio@gmail.com
