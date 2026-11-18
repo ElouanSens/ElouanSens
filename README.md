@@ -5,6 +5,7 @@ Elouan Sens
 Je viens de la chimie — j'ai bifurqué vers le code après avoir passé pas mal de temps en paillasse. Ça laisse des traces : j'aime les systèmes qu'on peut observer, dérégler et comprendre, et ça se retrouve dans ce que je fabrique.
 
 Ce sur quoi je travaille
+
 Orbital Line — tower defense planétaire
 
 Godot · C# · en développement
